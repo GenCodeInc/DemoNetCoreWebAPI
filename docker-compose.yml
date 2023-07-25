@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  demonetcorewebapi:
+    image: ${DOCKER_REGISTRY-}demonetcorewebapi
+    build:
+      context: .
+      dockerfile: DemoNetCoreWebAPI/Dockerfile
