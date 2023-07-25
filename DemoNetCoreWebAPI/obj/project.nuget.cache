@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "91WidvYPBrwt64jqmjiyFRnT8V95woi+zAdtGiMx6Y0elP+Q+J+2guAa2zHZVKPVD89sKIVo8e+rKt7+XMz8nw==",
+  "dgSpecHash": "oG8L7nNaKH9hcz0Dj09hAkzflbsGwI+InLdgv7MGzvwOS8TTnGvFvf4HoIBS5U+qN1jMbkPMcESDEULVWssuUQ==",
   "success": true,
   "projectFilePath": "/Users/gencode/Projects/DemoNetCoreWebAPI/DemoNetCoreWebAPI/DemoNetCoreWebAPI.csproj",
   "expectedPackageFiles": [
